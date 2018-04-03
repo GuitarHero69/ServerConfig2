@@ -1,0 +1,24 @@
+class: Captain Britain (BB).yml
+costumes:
+- chatcolor: '&1'
+  name: §1Captain&1 &cBritain&c
+  sig: QfBKiL676d24lh7F8Zf97Kw6Ce6aBk4Yny2NsZx4Ydc6ZThtQ0/GYMqix6GQ/t7AC2eh+8JmDOA1fRouj36Ul6n0qDNib5cRzkOkbxaHfSewc1hh3rIi14YeFdvJ36VVUsPsWx4blQVWVrTkX8X/3NYyjxpyMCBm3dYgwWhvGy1nKBtRtTzfmxHAijjju7eOgJkSFlpW7svMYWiqhVo32B7p7n5t6v0mcu7DRUWW44tYl4Q6iO/7UCDK911TsdXkBrReG+YYILNeVeL3qHINGmmpZxqloWLXw3OwHo15ORIUa3gIieKwVu0Xdkn2I84Q4/bTZSmvnElpe4aaF/ps52LZ2yrc8ZgyA4ASLeXTtTm8ks/fJiCthddHOA2ZcfFnNjJUckzwOOa1u7ANBRjEmcNsDqsB/RwsAnl/y5sujzcYlq1BEPLfK2GW1JBxWwBF/GXL5rwYxJAvn6P1/+hTsAt2Kuj6M75mvHyvOg5r3i/1UKQyB9X2DtSH2j+uEJNVApYYCSQp4UXShNilmrIJ3HEHC/u7nB8zo2OPDVWkNSodYv5zq21r741fDNHM0vk6IyZRQehGzGn12oXODz+n1uzm/DLcRCg8IdxGO3bpkjto16dV1U08kT1Nv5+lm2p/hPFA5TPBnMqIffzrAiwm11u622ST0YdUvIxDT00cqKg=
+  val: eyJ0aW1lc3RhbXAiOjE1MjI3ODk1NjE4ODcsInByb2ZpbGVJZCI6ImI2ZmNiZjVlZGQ4MzRkOWU5M2Y3MGIxZmYzNDY1ODU3IiwicHJvZmlsZU5hbWUiOiJHdWl0YXJfSGVybyIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTI3M2U2OWI2MDZkNDkzNzhlNmY0MzkxMjJjMTQyNzNjNDVhZjJlZGY0ODg3ZDdiNmRmN2VmOGRhNWM1NiJ9fX0=
+effects:
+- /effect <plr> 5 9999 9 true
+haste: 1
+maxHearts: 20
+permissions:
+  superherocity:
+  - ch.alias.carryplayer
+  - ch.alias.dropplayer
+  - essentials.fly
+powers:
+- /effects
+- /carryplayer <player>
+- /dropplayer
+- /haste 0-1
+- /run 0-2
+- /fly
+run: 2
+speech: God save the Queen!
