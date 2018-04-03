@@ -1,0 +1,25 @@
+class: Black Siren.yml
+costumes:
+- chatcolor: '&8'
+  name: §0Black Siren§8
+  sig: HYUNJZGj1r/WV60OSQ5YEg394ttp9ponkykebQOHrezc6K06Q79c2lLScAZdxeJ4yyRFc5dQXfA/upgnV/6FR2PCQx4j+jObDq5fyQcKs0o3SiUP2cudW26uiaHktR1jO9W3KQLEDbNJL3ix0TTZipZi86AixaMDvxAmi805r2od9dF5R5CDqSsrYa4rTDF+XRCZBDVyGcgGuyicHy+hmvRhwBhmF5RfYRbwnyZ+YCEeWGb/CgOp4yUK2iyziFV2WEeq/X9TioDYxrvDhiQsX2J3zEVIlzhdZFRfZoinU1HSIVQI514ZmZaSmK7dFA6ktCWDg7Dg/CrOl9AzFtfHrXeIDSbBkzrWqFt8E/riBeG7E7mEVgCjKs2QDeMA25k807f66lqtK4QDXSgq20nBqgbvtXNcrH2QxlHiumzWGmqXWhDgVvFOdSwHqzIjZ3DD3nd0ISJvARHTC2TrzHN3gxKO9CubsL5qlMtrJ9OXo3pAy22dONaKRoPjl3dGnzWG9uNlB6Y1Mo4pAyeEM4i0qvhrLYbja1zRVJ6E/NizAQqcWo9csiCcrxU8aRmclUjmwo9F3PjxVX6NZTfomckehHmvTVbKH3EqXVL1P9+kegciafIYA3uWjORi87wiOzQPQgvsIvSoXrNTPmU8JnUMk9DXAiKx9gZR/HQOicEP6YU=
+  val: eyJ0aW1lc3RhbXAiOjE1MjI3ODg1NTM2NTcsInByb2ZpbGVJZCI6ImI2ZmNiZjVlZGQ4MzRkOWU5M2Y3MGIxZmYzNDY1ODU3IiwicHJvZmlsZU5hbWUiOiJHdWl0YXJfSGVybyIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2U4OGFlNDczNDIyZTU4YTJjZDk4NGUxMTYyMGI0NDE5OWE1MjhmMTlmNWExNDgyMDZlN2Y0NzExMGIyYyIsIm1ldGFkYXRhIjp7Im1vZGVsIjoic2xpbSJ9fX19
+effects:
+- /effect <plr> 5 9999 5 true
+haste: 2
+items:
+- /give <plr> minecraft:stick 1 19:3 16:3 name:&0S&0ir&0en_&0Ba&0to&0n
+jump: 2
+maxHearts: 20
+permissions:
+  superherocity:
+  - ch.alias.psypush
+powers:
+- /effects
+- /items
+- /jump 0-2
+- /run 0-2
+- /haste 0-2
+- /psypush <player>
+run: 2
+speech: IM NOT YOUR DAUGHTER
