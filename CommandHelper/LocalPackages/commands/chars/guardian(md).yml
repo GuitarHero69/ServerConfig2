@@ -11,7 +11,6 @@ jump: 1
 maxHearts: 10
 powers:
 - /effects
-- /items
 - /jump 0-1
 - /run 0-2
 - /haste 0-1
